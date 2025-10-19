@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm ayush sharma</h1>
 <h3 align="center">A passionate java developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZrNHljZnV2bmFwd2c0dWNlMmZieHRnNzZtd3Jmb2hpZzV3YWFhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-sharma-2006&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-sharma-2006" /> </p>
 
 <h3 align="left">Connect with me:</h3>
